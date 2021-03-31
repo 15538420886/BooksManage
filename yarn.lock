@@ -704,6 +704,18 @@ fresh@0.5.2:
   resolved "http://192.168.2.110:8081/repository/npm-group/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
   integrity sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
 
+g2-react@^1.3.2:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/g2-react/-/g2-react-1.3.2.tgz#763115c851b2eb2cd5e08cdf2b2d40eb60edbdde"
+  integrity sha1-djEVyFGy6yzV4IzfKy1A62Dtvd4=
+  dependencies:
+    prop-types "^15.5.7"
+
+g2@^2.3.13:
+  version "2.3.13"
+  resolved "https://registry.yarnpkg.com/g2/-/g2-2.3.13.tgz#ca4478230f3292bd3b9a972da63616980b8f6ce9"
+  integrity sha512-N4LzRWoheJ7IORe8+GedzecyYG/OAl+avRoBorxtkXaQEvsPgPyEUW3GZSj1lchVTM8KzH19JLaUN3klsoaLZQ==
+
 get-caller-file@^1.0.1:
   version "1.0.3"
   resolved "http://192.168.2.110:8081/repository/npm-group/get-caller-file/-/get-caller-file-1.0.3.tgz#f978fa4c90d1dfe7ff2d6beda2a515e713bdcf4a"
@@ -2485,9 +2497,9 @@ xdg-basedir@^2.0.0:
     os-homedir "^1.0.0"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "http://192.168.2.110:8081/repository/npm-group/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 yargs-parser@^4.2.0:
   version "4.2.1"
