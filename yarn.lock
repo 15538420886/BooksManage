@@ -704,6 +704,18 @@ fresh@0.5.2:
   resolved "http://192.168.2.110:8081/repository/npm-group/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
   integrity sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
 
+g2-react@^1.3.2:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/g2-react/-/g2-react-1.3.2.tgz#763115c851b2eb2cd5e08cdf2b2d40eb60edbdde"
+  integrity sha1-djEVyFGy6yzV4IzfKy1A62Dtvd4=
+  dependencies:
+    prop-types "^15.5.7"
+
+g2@^2.3.13:
+  version "2.3.13"
+  resolved "https://registry.yarnpkg.com/g2/-/g2-2.3.13.tgz#ca4478230f3292bd3b9a972da63616980b8f6ce9"
+  integrity sha512-N4LzRWoheJ7IORe8+GedzecyYG/OAl+avRoBorxtkXaQEvsPgPyEUW3GZSj1lchVTM8KzH19JLaUN3klsoaLZQ==
+
 get-caller-file@^1.0.1:
   version "1.0.3"
   resolved "http://192.168.2.110:8081/repository/npm-group/get-caller-file/-/get-caller-file-1.0.3.tgz#f978fa4c90d1dfe7ff2d6beda2a515e713bdcf4a"
@@ -2345,9 +2357,9 @@ type-is@~1.6.17, type-is@~1.6.18:
     mime-types "~2.1.24"
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "http://192.168.2.110:8081/repository/npm-group/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 unpipe@1.0.0, unpipe@~1.0.0:
   version "1.0.0"
